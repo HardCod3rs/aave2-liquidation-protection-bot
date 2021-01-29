@@ -1,0 +1,14 @@
+{
+  "include": ["bot/*"],
+  "compilerOptions": {
+    "declaration": true,
+    "target": "es2015",
+    "module": "commonjs",
+    "strict": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "outDir": "dist"
+  }
+}

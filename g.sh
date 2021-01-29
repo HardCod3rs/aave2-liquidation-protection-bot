@@ -1,0 +1,1 @@
+ganache-cli -m "$MNEMONIC" --fork "$WEB3_PROVIDER" -i 1
